@@ -1,0 +1,5 @@
+{
+  "dns_active": true,
+  "dns_server": "1.1.1.1",
+  "dns_label": "Cloudflare"
+}

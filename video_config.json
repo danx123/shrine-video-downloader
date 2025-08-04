@@ -1,0 +1,12 @@
+{
+  "cookiesfrombrowser": "chrome",
+  "max_retries": 3,
+  "concurrent_fragments": 1,
+  "fragment_retries": 10,
+  "merge_format": "mp4",
+  "format_map": {
+    "480p": "bv*[height<=480]+ba/b[height<=480]",
+    "720p": "bv*[height<=720]+ba/b[height<=720]",
+    "1080p": "bv*[height<=1080]+ba/b[height<=1080]"
+  }
+}
