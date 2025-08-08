@@ -1,56 +1,55 @@
 # 🛸 Macan Shrine Video Downloader – SilentStream Edition
 
-Macan Shrine Video Downloader adalah aplikasi desktop ringan dan cepat untuk mengunduh video dari berbagai platform online menggunakan antarmuka modern berbasis **PyQt6**. Dibekali **engine `yt-dlp`**, multi-threaded UI, serta DNS Switching dan Shrine Log Panel, edisi **SilentStream** dirancang agar pengguna bisa fokus mendownload dengan alur yang senyap, efisien, dan powerful.
+Macan Shrine Video Downloader is a lightweight and fast desktop application for downloading videos from various online platforms using a modern PyQt6-based interface. Equipped with the yt-dlp engine, a multi-threaded UI, DNS Switching and the Shrine Log Panel, the SilentStream edition is designed to allow users to focus on downloading with a silent, efficient, and powerful flow.
 
 ---
 
-## 🚀 Fitur Unggulan
+## 🚀 Featured Features
 
-- 🎞️ **Support berbagai situs video** (YouTube, TikTok, Instagram, dsb)
-- 🧠 **Preview metadata otomatis** (judul, resolusi, durasi, thumbnail)
-- 📥 **Batch downloader** hingga 10 URL sekaligus
-- 🧭 **Smart DNS Switcher** untuk bypass atau stabilisasi koneksi
-- 📊 **Progress bar per file** dengan log status real-time
-- 🧾 **Shrine Log Panel** — pantau aktivitas dan error dalam satu tempat
-- 🧩 Terintegrasi dengan **Shrine Ecosystem** (Shrine Browser, Shrine Core Tools)
-- 🌙 **Dark modern UI** dengan PyQt6 dan ikon SVG
+- 🎞️ **Supports various video sites** (YouTube, TikTok, Instagram, etc.)
+- 🧠 **Automatic metadata preview** (title, resolution, duration, thumbnail)
+- 📥 **Batch downloader** for up to 10 URLs at once
+- 🧭 **Smart DNS Switcher** to bypass or stabilize connections
+- 📊 **Per-file progress bar** with real-time status log
+- 🧾 **Shrine Log Panel** — monitor activity and errors in one place
+- 🧩 Integrated with **Shrine Ecosystem** (Shrine Browser, Shrine Core Tools)
+- 🌏 Multi-Language
 - 🔧 **Custom config via JSON**
 
 ---
 
-## 📸 Tampilan Antarmuka
+## 📸 Interface Appearance
 
-<img width="605" height="543" alt="image" src="https://github.com/user-attachments/assets/f4e527f8-7ae9-442f-b38e-bf43d5eab3d2" />
+<img width="605" height="546" alt="Screenshot 2025-08-08 045121" src="https://github.com/user-attachments/assets/6ec16818-562c-4c38-84e3-b4c2c9ea0a34" />
 
-
----
-
-## 📦 Cara Menggunakan
-
-1. Pastikan Anda memiliki Python 3.10+ dan telah menginstal dependensi:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. Jalankan aplikasi:
-    ```bash
-    python main.py
-    ```
-
-3. Masukkan URL video atau gunakan **batch mode**
-4. Klik tombol `Orbitkan Shrine` untuk memulai pengunduhan
-5. Cek Shrine Log Panel untuk memantau proses
-6. (Opsional) Aktifkan DNS resolver untuk koneksi yang lebih optimal
 
 ---
 
-## ⚙️ Konfigurasi
+## 📦 How to Use
 
-Konfigurasi dapat diatur di file `downloader_config.json`.
+1. Make sure you have Python 3.10+ and have installed the dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the application:
+```bash
+python main.py
+```
+
+3. Enter the video URL or use **batch mode**
+4. Click the `Orbit Shrine` button to start the download
+5. Check the Shrine Log Panel to monitor the process
+6. (Optional) Enable DNS resolver for a more optimal connection
+
+---
+
+## ⚙️ Configuration
+
+Configurations can be set in the `downloader_config.json` file.
 ```json
-{
-  "max_batch": 10,
-  "output_format": "mp4",
-  "download_folder": "ShrineDownloads/"
+{ 
+"max_batch": 10, 
+"output_format": "mp4", 
+"download_folder": "ShrineDownloads/"
 }
-
