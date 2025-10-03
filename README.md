@@ -1,6 +1,6 @@
 # 🛸 Macan Shrine Video Downloader – SilentStream Edition
 
-Macan Shrine Video Downloader is a lightweight and fast desktop application for downloading videos from various online platforms using a modern PyQt6-based interface. Equipped with the yt-dlp engine, a multi-threaded UI, DNS Switching and the Shrine Log Panel, the SilentStream edition is designed to allow users to focus on downloading with a silent, efficient, and powerful flow.
+Macan Shrine Video Downloader is a lightweight and fast desktop application for downloading videos from various online platforms using a modern PySide6-based interface. Equipped with the yt-dlp engine, a multi-threaded UI, DNS Switching and the Shrine Log Panel, the SilentStream edition is designed to allow users to focus on downloading with a silent, efficient, and powerful flow.
 
 ---
 
@@ -25,9 +25,8 @@ Macan Shrine Video Downloader is a lightweight and fast desktop application for 
 
 
 ---
-## 📝 Changelog v4.5.2
-- Update yt-dlp
-- Migration from to PySide6
+## 📝 Changelog v4.5.3
+- Update Framework
 
 ---
 ## 📦 How to Use
