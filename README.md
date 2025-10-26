@@ -16,11 +16,12 @@ Macan Shrine Video Downloader is a lightweight and fast desktop application for 
 ---
 
 ## 📸 Interface Appearance
-<img width="1000" height="633" alt="Screenshot 2025-10-25 005015" src="https://github.com/user-attachments/assets/3bb8d113-2590-402e-be1f-9d2440432c2c" />
+<img width="1002" height="633" alt="Screenshot 2025-10-26 203948" src="https://github.com/user-attachments/assets/7259f3bd-89f3-49e1-857c-c106f7dda069" />
+
 
 ---
-## 📝 Changelog v6.2.0
-- Fix Bug UI Not responding
+## 📝 Changelog v6.3.0
+- Improve Performance
 
 
 ---
