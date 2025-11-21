@@ -16,15 +16,13 @@ Macan Shrine Video Downloader is a lightweight and fast desktop application for 
 ---
 
 ## 📸 Interface Appearance
-<img width="1003" height="633" alt="Screenshot 2025-11-17 093751" src="https://github.com/user-attachments/assets/8ff885c1-53fd-4e2f-b86c-d845e9aaaabe" />
+<img width="1001" height="631" alt="image" src="https://github.com/user-attachments/assets/34cf39be-63d6-45f4-899a-f89b0e03551b" />
+
 
 
 ---
-## 📝 Changelog v7.3.0
-✨ New Features
-Implemented Queue Statistics Panel: Added a new display panel at the top of the application to provide users with at-a-glance information about the download queue.
-Added Total Progress Monitor: The panel now displays the total number of items in the queue ("Total: X") and tracks overall completion ("Progress: Y/X"). This count updates automatically as items are added, removed, or completed.
-Added Elapsed Time Counter: A new "Elapsed: HH:MM:SS" timer now actively tracks the duration of the download process. The timer starts when the queue is initiated and stops automatically upon completion or when manually stopped by the user.
+## 📝 Changelog v7.5.0
+- Update Framework
 ---
 ## 📦 How to Use
 
