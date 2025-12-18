@@ -16,13 +16,15 @@ Macan Shrine Video Downloader is a lightweight and fast desktop application for 
 ---
 
 ## 📸 Interface Appearance
-<img width="1001" height="631" alt="image" src="https://github.com/user-attachments/assets/34cf39be-63d6-45f4-899a-f89b0e03551b" />
+<img width="1001" height="632" alt="Screenshot 2025-12-18 135836" src="https://github.com/user-attachments/assets/31a260cd-f4b7-469b-85a8-a22f8c39ed71" />
+
 
 
 
 ---
-## 📝 Changelog v7.5.1
-- Update macan engine
+## 📝 Changelog v7.6.0
+- Added batch_urls.txt delete function to Clear List
+- Update Engine (macan-engine)
 ---
 ## 📦 How to Use
 
