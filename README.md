@@ -16,15 +16,21 @@ Macan Shrine Video Downloader is a lightweight and fast desktop application for 
 ---
 
 ## 📸 Interface Appearance
-<img width="1001" height="632" alt="Screenshot 2025-12-18 135836" src="https://github.com/user-attachments/assets/31a260cd-f4b7-469b-85a8-a22f8c39ed71" />
+<img width="1101" height="700" alt="Screenshot 2025-12-26 025846" src="https://github.com/user-attachments/assets/e9368cd9-5795-4af7-8ddd-a06b9141b109" />
+<img width="1098" height="698" alt="Screenshot 2025-12-26 030950" src="https://github.com/user-attachments/assets/0ef0446f-be7b-49e8-8d89-512508c7642c" />
+
 
 
 
 
 ---
-## 📝 Changelog v7.6.0
-- Added batch_urls.txt delete function to Clear List
-- Update Engine (macan-engine)
+## 📝 Changelog v8.0.0
+- Change Layout Video Downloader
+- Change Layout Video Converter
+- Frameless Windows
+- Custom Titlebar
+- Windows Controls
+- Drag & Resize
 ---
 ## 📦 How to Use
 
