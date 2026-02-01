@@ -11,26 +11,19 @@ Macan Shrine Video Downloader is a lightweight and fast desktop application for 
 - 📥 **Batch downloader** for up to 10 URLs at once
 - 📊 **Per-file progress bar** with real-time status log
 - 🌏 Multi-Language
+- Converter
+- Video Player
 
 
 ---
 
 ## 📸 Interface Appearance
-<img width="1101" height="700" alt="Screenshot 2025-12-26 025846" src="https://github.com/user-attachments/assets/e9368cd9-5795-4af7-8ddd-a06b9141b109" />
-<img width="1098" height="698" alt="Screenshot 2025-12-26 030950" src="https://github.com/user-attachments/assets/0ef0446f-be7b-49e8-8d89-512508c7642c" />
+<img width="1099" height="697" alt="Screenshot 2026-02-02 022151" src="https://github.com/user-attachments/assets/324b395f-a994-4e50-8f3f-e3c698d5332b" />
+<img width="1100" height="699" alt="Screenshot 2026-02-02 022203" src="https://github.com/user-attachments/assets/6504f6d7-c6ed-49c0-b278-b0492f540934" />
+<img width="1099" height="700" alt="Screenshot 2026-02-02 022330" src="https://github.com/user-attachments/assets/f0c2b875-e5ef-48f0-b94a-ea879facc16f" />
 
 
 
-
-
----
-## 📝 Changelog v8.0.0
-- Change Layout Video Downloader
-- Change Layout Video Converter
-- Frameless Windows
-- Custom Titlebar
-- Windows Controls
-- Drag & Resize
 ---
 ## 📦 How to Use
 
