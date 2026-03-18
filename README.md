@@ -114,5 +114,5 @@ Licensed under the **Commercial Premium License**. Unauthorized distribution or 
 ---
 
 <p align="center">
-  Built with PySide6 · Powered by yt-dlp · © 2026 Macan Angkasa Dev
+  Built with PySide6 · Powered by yt-dlp · © 2026 Macan Angkasa
 </p>
