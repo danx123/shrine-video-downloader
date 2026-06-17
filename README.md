@@ -8,7 +8,15 @@ A professional-grade desktop media suite for downloading, converting, and playin
 
 ## ✦ Screenshots
 
-<img width="1147" height="727" alt="Macan Suite v9.8.0 Interface" src="https://github.com/user-attachments/assets/fb3d1d04-370d-4c87-b602-bd4719cb67ef" />
+<img width="1152" height="754" alt="Screenshot 2026-06-18 044018" src="https://github.com/user-attachments/assets/2b152427-003b-48b6-992e-a444a84b6f15" />
+
+<img width="1149" height="754" alt="Screenshot 2026-06-18 044045" src="https://github.com/user-attachments/assets/572b7196-6771-4def-9ef6-8110516e83d6" />
+
+<img width="1152" height="754" alt="Screenshot 2026-06-18 044136" src="https://github.com/user-attachments/assets/a11898de-a8f0-478d-82f3-d0c51607255c" />
+
+
+
+
 
 ---
 
