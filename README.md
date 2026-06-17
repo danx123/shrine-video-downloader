@@ -1,6 +1,6 @@
 # Macan Video Downloader — Premium Edition
 
-> **v9.8.0** · PySide6 · yt-dlp · Python 3.10+
+> **v10.5.0** · PySide6 · yt-dlp · Python 3.10+
 
 A professional-grade desktop media suite for downloading, converting, and playing video content from hundreds of online platforms. Built on a fully multi-threaded architecture with a sleek frameless dark UI, Macan Suite is engineered for speed, reliability, and an uncompromising user experience.
 
