@@ -1,6 +1,7 @@
 # Macan Video Downloader — Premium Edition
 
 > **v11.5.0** · PySide6 · yt-dlp · Python 3.10+
+![Total Downloads](https://img.shields.io/github/downloads/danx123/shrine-video-downloader/total?style=flat-square&color=E8FF00&label=downloads)
 
 A professional-grade desktop media suite for downloading, converting, and playing video content from hundreds of online platforms. Built on a fully multi-threaded architecture with a sleek frameless dark UI, Macan Suite is engineered for speed, reliability, and an uncompromising user experience.
 
