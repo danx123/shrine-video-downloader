@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Total Downloads](https://img.shields.io/github/downloads/danx123/shrine-video-downloader/total?style=flat-square&color=E8FF00&label=downloads)
+
 
 A professional-grade desktop media suite for downloading, converting, and playing video content from hundreds of online platforms. Built on a fully multi-threaded architecture with a sleek frameless dark UI, Macan Suite is engineered for speed, reliability, and an uncompromising user experience.
 
